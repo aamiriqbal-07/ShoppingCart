@@ -69,7 +69,7 @@ Yes, you can add hashtags in the README file. However, they are not typically us
 ---
 
 ## Tags
-`#shoppingcart` `#coupons` `#discounts` `#java` `#designpatterns` `shoppingcartlld` `lldinterview`
+`#shoppingcart` `#coupons` `#discounts` `#java` `#designpatterns` `#shoppingcartlld` `#lldinterview`
 ```
 
 This README file provides an overview of the Shopping Cart App, including features, examples, implementation details, usage, contributing guidelines, and a note on hashtags. 
